@@ -1,6 +1,6 @@
 const ParentElement = document.querySelector(".main");
 const searchInput = document.querySelector(".input");
-const API_KEY = "3c46afb0";
+const API_KEY = "Your_Api_Key_here";
 const URL = `http://www.omdbapi.com/?s=avengers&apikey=${API_KEY}`;
 
 
